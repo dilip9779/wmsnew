@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import DataTable from 'react-data-table-component';
+import DataTable from 'react-data-table-component'; 
 
 export class Dashboard extends Component {
 	constructor(props) {
